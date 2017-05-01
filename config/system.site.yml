@@ -1,0 +1,14 @@
+uuid: e17b79ea-d178-4065-9c5d-a689d6b2161e
+name: gcpgcp-sendgrid-d8-2
+mail: greg.1.anderson@greenknowe.org
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
